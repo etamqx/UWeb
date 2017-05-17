@@ -1,0 +1,17 @@
+body {
+	margin: 40;
+}
+
+#first{
+	background-color: blue;
+	width: 220px;
+	height: 220px;
+	float:right;
+}
+
+#secnd{
+	background-color: green;
+	width: 220px;
+	height: 220px;
+	float:left;
+}
